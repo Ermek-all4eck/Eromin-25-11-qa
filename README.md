@@ -1,1 +1,1 @@
-ddbsd bsd sd sd# Eromin-25-11-qa
+# Eromin-25-11-qa
